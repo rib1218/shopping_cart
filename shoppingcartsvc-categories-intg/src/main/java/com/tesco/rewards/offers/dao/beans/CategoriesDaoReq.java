@@ -7,7 +7,7 @@ package com.tesco.rewards.offers.dao.beans;
  * @author RIB
  *
  */
-public class CategoriesReqBean {
+public class CategoriesDaoReq {
 
 	private String clientID;
 	private String channelID;

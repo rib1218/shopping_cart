@@ -9,7 +9,7 @@ import java.util.List;
  * @author RIB
  *
  */
-public class CategoriesRespBean {
+public class CategoriesDaoResp {
 
 	private List<CategoriesDaoInfo> categorisInfo;
 	private String respCode;
